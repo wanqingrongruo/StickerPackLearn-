@@ -1,0 +1,38 @@
+{
+  "stickers" : [
+    {
+      "filename" : "magic.sticker"
+    },
+    {
+      "filename" : "find-1.sticker"
+    },
+    {
+      "filename" : "find.sticker"
+    },
+    {
+      "filename" : "eating.sticker"
+    },
+    {
+      "filename" : "eat_full.sticker"
+    },
+    {
+      "filename" : "dizzy.sticker"
+    },
+    {
+      "filename" : "catch.sticker"
+    },
+    {
+      "filename" : "sing.sticker"
+    },
+    {
+      "filename" : "sit.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
